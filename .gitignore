@@ -1,0 +1,15 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# 运行产物
+*.log
+.env
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
